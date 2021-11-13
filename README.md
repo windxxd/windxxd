@@ -1,7 +1,6 @@
-### Hello I'm Selahattin ACAR
+### Hello I'm Wind
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
-[![GitHub acarfx](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/acarfx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, Ankara Başkent University (2017-2021).\
