@@ -3,9 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=windxxd&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, Ankara Başkent University (2017-2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, piano, violin, Turkish Saz, music and pursue writing as my hobbies.
+空白人
 
 ### 🛠 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
