@@ -1,34 +1,21 @@
-# ✨ Hi, I am Wind
+### Hello I'm Selahattin ACAR
+![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=acarfx&color=red)&nbsp;
+[![GitHub acarfx](https://img.shields.io/github/followers/acarfx?label=follow&style=social)](https://github.com/acarfx)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, Ankara Başkent University (2017-2021).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+✍️ &nbsp;In my free time, I play guitar, piano, violin, Turkish Saz, music and pursue writing as my hobbies.
 
-Hi, my name is Emir and I'm 20. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
+### 🛠 &nbsp;Software Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=windxxd&color=dc143c"/>
-</div>
+### 📫 &nbsp; How to reach me:
+<a href="mailto:officialaccwind@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/iCloud-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/904097040466866186"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/windxdd"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-
-
-## ⚡ Contact
-
-<div align="center">
-    <a href="https://discord.com/users/904097040466866186" target="_blank"><img src="https://shields.io/badge/wind-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/windxxd" target="_blank"><img src="https://shields.io/badge/wind-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~wind" target="_blank"><img src="https://shields.io/badge/wind-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/victorius" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-  
-</div>
-
-## 💻 Technologies I Use
-
-<div align="center">
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    
-</div>
-
-## 📈 Github Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=windxxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
-</div>
