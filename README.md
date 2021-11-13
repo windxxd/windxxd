@@ -6,9 +6,7 @@ Hi, my name is Emir and I'm 20. I started software development 1 year ago with d
     <img src="https://komarev.com/ghpvc/?username=windxxd&color=dc143c"/>
 </div>
 
-<div align="center">
-    <a href="https://discord.com/users/904097040466866186" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/904097040466866186"></a>
-</div>
+
 
 ## ⚡ Contact
 
