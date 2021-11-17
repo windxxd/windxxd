@@ -25,4 +25,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
-[![Spotify](https://windxxd.vercel.app/api/spotify)](https://open.spotify.com/user/uheiie9245sapo0x409tx8kje)
+[![Spotify](https://w5NyuNhtanFmX5XgKPXZ6jlo.vercel.app/api/spotify)](https://open.spotify.com/user/uheiie9245sapo0x409tx8kje)
