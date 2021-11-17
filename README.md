@@ -24,7 +24,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windxxd&show_icons=true&theme=merko&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
-
+<br>
 <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/904097040466866186?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/904097040466866186)
