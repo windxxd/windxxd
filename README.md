@@ -1,25 +1,28 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hello I'm Wind
+![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=windxxd&color=red)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
+🎓 &nbsp;Çanakkale 18 Mart University Faculty of Medicine Graduate \
+⚒️ &nbsp;Dealing With Discord Bots In My Free Time \
+⛑️ &nbsp;I Help You Free You Can Reach From Discord
+### 🛠 &nbsp;Software Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=windxxd&label=Profile%20views&color=0e75b6&style=flat" alt="windxxd" /> </p>
+### 📫 &nbsp; How to reach me:
+<a href="mailto:officialaccwind@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
+<a href="https://discord.com/users/904097040466866186"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/windxdd"><img src="https://img.shields.io/badge/@windxdd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-- 🔭 I’m currently working on **Discord Bot**
+## 📈 Github Stats
 
-- 🌱 I’m currently learning **JavaScript, PHP, Python**
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=windxxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/windxxd](https://github.com/windxxd)
-
-- 💬 Ask me about **Discord Bots**
-
-- 📫 How to reach me **Wind ✦ #1004**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/windxxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="windxxd" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=windxxd&show_icons=true&locale=en&layout=compact" alt="windxxd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=windxxd&show_icons=true&locale=en" alt="windxxd" /></p>
+[![Spotify](https://w5NyuNhtanFmX5XgKPXZ6jlo.vercel.app/api/spotify)](https://open.spotify.com/user/uheiie9245sapo0x409tx8kje)
