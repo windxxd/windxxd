@@ -25,3 +25,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windxxd&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
 </div>
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/904097040466866186
+                            )](https://discord.com/users/904097040466866186)
