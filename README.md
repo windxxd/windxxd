@@ -17,13 +17,10 @@
 <a href="https://discord.com/users/904097040466866186"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/windxdd"><img src="https://img.shields.io/badge/@windxdd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-### � &nbsp; Discord Account:
+### &nbsp; Discord Account:
 <br> 
-<div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/904097040466866186?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/904097040466866186)
-
-</div>
 
 
 ## 📈 Github Stats
