@@ -16,7 +16,7 @@
 <a href="mailto:officialaccwind@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=icloud&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/904097040466866186"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/windxdd"><img src="https://img.shields.io/badge/@windxdd-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+<br>
 ### &nbsp; Discord Account:
 <br> 
 
