@@ -20,7 +20,7 @@
 ### &nbsp; Discord Account:
  
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/904097040466866186)](https://discord.com/users/904097040466866186)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/963007361251946496)](https://discord.com/users/963007361251946496)
 
 
 
