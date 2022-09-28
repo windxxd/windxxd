@@ -3,7 +3,6 @@
 ![profile count](https://komarev.com/ghpvc/?username=windxxd&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;Çanakkale 18 March University Faculty of Medicine Graduate \
 ⚒️ &nbsp;Dealing With Discord Bots In My Free Time \
 ⛑️ &nbsp;I Help You Free You Can Reach From Discord
 ### 🛠 &nbsp;Software Languages
